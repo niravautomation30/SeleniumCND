@@ -5,5 +5,9 @@ public class Test1 {
 		System.out.println("nirav");
 
 	}
+	
+	public void Test1() {
+		
+	}
 
 }
