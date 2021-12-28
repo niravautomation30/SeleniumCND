@@ -9,5 +9,9 @@ public class Test1 {
 	public void Test1(int a, int b) {
 		System.out.println("in test1");
 	}
+	
+	public void Test2() {
+		System.out.println("in test2");
+	}
 
 }
