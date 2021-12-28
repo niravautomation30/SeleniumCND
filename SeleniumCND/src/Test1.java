@@ -7,7 +7,7 @@ public class Test1 {
 	}
 	
 	public void Test1() {
-		
+		System.out.println("in test1");
 	}
 
 }
