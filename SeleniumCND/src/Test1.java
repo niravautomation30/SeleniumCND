@@ -21,5 +21,9 @@ public class Test1 {
 	public void Test4() {
 		System.out.println("in test4");
 	}
+	
+	public void Test5() {
+		System.out.println("in test5");
+	}
 
 }
