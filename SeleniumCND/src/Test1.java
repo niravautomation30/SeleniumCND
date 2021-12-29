@@ -13,5 +13,13 @@ public class Test1 {
 	public void Test2() {
 		System.out.println("in test2");
 	}
+	
+	public void Test3() {
+		System.out.println("in test3");
+	}
+	
+	public void Test4() {
+		System.out.println("in test4");
+	}
 
 }
